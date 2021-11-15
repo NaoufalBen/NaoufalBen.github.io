@@ -96,6 +96,11 @@ font-family: 'Montagu Slab', serif;}
   padding-right: 5px;
 }
 
+@media screen and (max-width: 300px) { .divider2 {
+  
+  margin-top: 14em;
+} }
+
 
 
 
