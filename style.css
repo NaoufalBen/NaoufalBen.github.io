@@ -41,9 +41,6 @@ font-family: 'Montagu Slab', serif;}
   justify-content:center;
   align-items:center;
 }
-.projets .divider {
-  margin-top: 8em;
-}
 
 .text-div{
   font-size:30px;
@@ -77,6 +74,10 @@ font-family: 'Montagu Slab', serif;}
 #projets {
   width: 100%;
   height: auto;
+}
+
+.projets {
+  margin-top: 8em;
 }
 
 .card-group{
