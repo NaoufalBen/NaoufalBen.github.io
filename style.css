@@ -62,11 +62,7 @@ font-family: 'Montagu Slab', serif;}
   height: 400px;
 }
 
-#Connaissances {
-  width: 100%;
-  height: auto;
-  display: block;
-}
+
 
 .card-group{
   margin-top: 10px;
@@ -74,4 +70,7 @@ font-family: 'Montagu Slab', serif;}
   height: 400px;
   padding-right: 5px;
  
+}
+.card{
+  display: block;
 }
