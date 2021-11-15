@@ -67,10 +67,11 @@ font-family: 'Montagu Slab', serif;}
   height: auto;
 }
 
-.border-white{
+.card-group{
   margin-top: 10px;
   width: 100%;
   height: 400px;
   padding-right: 5px;
+  display: block;
  
 }
