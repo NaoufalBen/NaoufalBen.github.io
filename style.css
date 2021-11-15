@@ -52,15 +52,10 @@ font-family: 'Montagu Slab', serif;}
 
 .swiper-img {
    width: 100%;
-  height: 100%;
+  height: 400px;
   object-fit: contain;
 }
 
-
-.card-img-top{
-  width: 100%;
-  height: 400px;
-}
 
 #Connaissances {
   width: 100%;
