@@ -65,12 +65,14 @@ font-family: 'Montagu Slab', serif;}
 #Connaissances {
   width: 100%;
   height: auto;
+  display: flex;
   margin-bottom: 20px;
 }
 
 #projets {
   width: 100%;
   height: auto;
+  display: flex;
  
 }
 
