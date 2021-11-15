@@ -73,7 +73,7 @@ font-family: 'Montagu Slab', serif;}
 #projets {
   width: 100%;
   height: auto;
-  
+  margin-top: 25%;
 }
 
 .card-group{
@@ -84,11 +84,6 @@ font-family: 'Montagu Slab', serif;}
   padding-right: 5px;
 }
 
-@media screen and (max-width: 450px) { 
-  #projets {
-    margin-top: 25%;
-  }
- }
 
 
 
