@@ -70,10 +70,10 @@ font-family: 'Montagu Slab', serif;}
  
 }
 
-#projets {
+.projets {
   width: 100%;
   height: auto;
-  margin-top: 25%;
+  margin-top: 8em;
 }
 
 .card-group{
