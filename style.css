@@ -42,6 +42,10 @@ font-family: 'Montagu Slab', serif;}
   align-items:center;
 }
 
+.projets .divider {
+  margin-top: 10em;
+}
+
 .text-div{
   font-size:30px;
   font-family: 'Montagu Slab', serif;
