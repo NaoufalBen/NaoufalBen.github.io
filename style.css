@@ -1,0 +1,102 @@
+* { box-sizing: border-box; }
+
+body { background-color: black;  }
+
+.col { max-width: 1500px; }
+
+.card-title { font-size:30px; font-family: 'Montagu Slab', serif; }
+
+.card-body{
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+}
+
+.nav-item { font-size:30px; 
+color: white;
+font-family: 'Montagu Slab', serif;}
+
+
+
+.navbar{
+  position:relative;
+  background:#FFAE3A;
+}
+
+.container{
+  margin:0;
+  min-width:100%;
+}
+
+
+.container-fluid{
+  padding-top:10px; 
+}
+
+.divider1 {
+  background-color:white;
+  width:100%;
+  height:100px;
+  margin-top:10px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.divider2 {
+  background-color:white;
+  width:100%;
+  height:100px;
+  margin-top: 15em;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+
+.text-div{
+  font-size:30px;
+  font-family: 'Montagu Slab', serif;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+  margin:auto;
+}
+
+.swiper-img {
+   width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+
+.card-img-top{
+  width: 100%;
+  height: 400px;
+}
+
+#Connaissances {
+  width: 100%;
+  height:auto;
+ 
+}
+
+#projets {
+  width: 100%;
+  height: auto;
+}
+
+
+.card-group{
+  margin-top: 10px;
+  width: 100%;
+  height: 400px;
+  min-height: 200px;
+  padding-right: 5px;
+}
+
+
+
+
+
